@@ -1,0 +1,34 @@
+{
+  "translation": {
+    "label": {
+      "or": "or",
+      "select_one": "Select one item from the list",
+      "select_other": "Select one or more items from the list",
+      "submit": "Submit"
+    },
+    "user": {
+      "logout": "Log out",
+      "name": "Username",
+      "welcome": "Welcome {{name}}!"
+    },
+    "router": {
+      "wallet": "View accounts",
+      "deposit": "Deposit money",
+      "transfer": "Transfer money",
+      "login": "Login",
+      "register": "Create new user"
+    },
+    "wallet": {
+      "accounts": "My accounts",
+      "balance": "Balance",
+      "movements_one": "See {{count}} movement",
+      "movements_other": "See {{count}} movements",
+      "transfer": "Transfer"
+    },
+    "transfer": {
+      "from": "From",
+      "to": "To",
+      "amount": "Amount"
+    }
+  }
+}
